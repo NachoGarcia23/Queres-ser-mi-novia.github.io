@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: aliceblue;
+}
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+    margin: 0%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    border-radius: 25px;
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    border-radius: 25px;
+    position: absolute;
+}
+
+.minions3{
+    width: 300px;
+    height: 170px;
+    bottom: 32rem;
+    left: 36rem;
+    position: relative;
+}
