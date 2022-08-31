@@ -24,17 +24,16 @@ a{
 
 button{
     font-size: xx-large;
-    padding: 0.5em;
+    padding: 10px;
+    border-radius: 15px;
 }
 
 #yesBtn{
-    border-radius: 25px;
     transform: translate(-100%,0);
-    position: absolute;
+   
 }
 
 #noBtn{
-    border-radius: 25px;
     position: absolute;
     margin-left: 8rem;
 }
