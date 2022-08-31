@@ -13,6 +13,13 @@ ul{
     font-size: large;
 }
 
+button{
+    margin-top: 2rem;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px bl;
+}
 .contenedorUl{
     display: flex;
     flex-direction: column;
