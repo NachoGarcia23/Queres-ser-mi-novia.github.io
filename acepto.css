@@ -9,3 +9,21 @@ html,body,main{
     background: aliceblue;
 }
 
+ul{
+    font-size: large;
+}
+
+.contenedorUl{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.primerLi{
+    padding-top: 0.5rem;
+}
+.penultimoLi{
+    padding-bottom: 0.5rem;
+}
